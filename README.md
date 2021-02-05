@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://picsum.photos/300"/>
+<img src="https://picsum.photos/500"/>
 
 
 😄🚕🚙🚙🚘🚲🚈🚅🚄🦽🚛🚘🚃🚡🤶👼👼👼👼👨‍🦳🧓🧓👩‍🦱👨‍🦱🤶👼💕😁😍🌀🌀🌀🌀🚞🚲🚌🎇🎗🎭
